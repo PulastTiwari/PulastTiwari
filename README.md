@@ -1,7 +1,7 @@
 ### Pulast  
 
 Building products in stealth.  
-On weekends building [Palt Tech](https://github.com/Palt-Tech).  
+On weekends building [Palt Tech](https://www.palt.tech/).  
 DM to get your next product’s MVP [@X](https://x.com/pulaststiwari).  
 
 <!---
